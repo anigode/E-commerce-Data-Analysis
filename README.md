@@ -1,4 +1,4 @@
-### E-commerce Data Analysis
+# E-commerce Data Analysis
 This project focuses on analyzing data from an e-commerce platform to gain insights into customer behavior, sales trends, and overall business performance. The dataset includes information such as customer transactions, product details, purchase amounts, and timestamps. By performing exploratory data analysis (EDA), the project identifies key trends and patterns that can help improve decision-making in an e-commerce environment.
 - Table of Contents
 - Introduction
