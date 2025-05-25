@@ -1,6 +1,8 @@
-# E-commerce Data Analysis
+# E-commerce Sales Demand Analytics
 This project focuses on analyzing data from an e-commerce platform to gain insights into customer behavior, sales trends, and overall business performance. The dataset includes information such as customer transactions, product details, purchase amounts, and timestamps. By performing exploratory data analysis (EDA), the project identifies key trends and patterns that can help improve decision-making in an e-commerce environment.
 - Table of Contents
+- Business Problem
+- Objective
 - Introduction
 - Installation
 - Usage
@@ -8,6 +10,16 @@ This project focuses on analyzing data from an e-commerce platform to gain insig
 - Analysis
 - Evaluation
 - Libraries
+## Business Problem
+An e-commerce company faces challenges in managing product inventory across multiple categories and regions. They want to:
+- Predict future product demand
+- Reduce overstock and stockouts
+- Improve category-wise and region-wise sales strategies
+## Objective
+- Perform sales forecasting using ARIMA
+- Analyze category and region-based performance
+- Identify high/low-performing SKUs
+- Build Power BI dashboards for decision-makers
 ## Introduction
 The goal of this project is to provide insights into customer transactions and business performance by analyzing various aspects of e-commerce data. The project focuses on understanding customer behavior, identifying sales patterns, and providing data-driven recommendations to enhance marketing strategies, inventory management, and overall operational efficiency.
 ## Installation
